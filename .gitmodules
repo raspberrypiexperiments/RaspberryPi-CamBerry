@@ -1,0 +1,18 @@
+[submodule "RaspberryPi-EW-7611ULB"]
+	path = RaspberryPi-EW-7611ULB
+	url = https://github.com/raspberrypiexperiments/RaspberryPi-EW-7611ULB.git
+[submodule "RaspberryPi-Power-Off-Button"]
+	path = RaspberryPi-Power-Off-Button
+	url = https://github.com/raspberrypiexperiments/RaspberryPi-Power-Off-Button.git
+[submodule "RaspberryPi-Traffic-Lights"]
+	path = RaspberryPi-Traffic-Lights
+	url = https://github.com/raspberrypiexperiments/RaspberryPi-Traffic-Lights.git
+[submodule "RaspberryPi-Janus-Gateway"]
+	path = RaspberryPi-Janus-Gateway
+	url = https://github.com/raspberrypiexperiments/RaspberryPi-Janus-Gateway.git
+[submodule "RaspberryPi-Camera"]
+	path = RaspberryPi-Camera
+	url = https://github.com/raspberrypiexperiments/RaspberryPi-Camera.git
+[submodule "RaspberryPi-GStreamer-1.0"]
+	path = RaspberryPi-GStreamer-1.0
+	url = https://github.com/raspberrypiexperiments/RaspberryPi-GStreamer-1.0.git
